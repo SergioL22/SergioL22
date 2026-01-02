@@ -33,22 +33,10 @@ Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## **GitHub Stats**
-
-<div align="center">
-  
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioL22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioL22&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## **Contribution Activity**
 
 <div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
-
 </div>
 
 ## **Streak Stats**
