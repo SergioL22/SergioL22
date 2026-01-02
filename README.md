@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Focused+on+Data+Analytics+&+Data+Science;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Focused+on+Data+Analytics+and+Data+Science)](https://git.io/typing-svg)
 
 
 <!--
