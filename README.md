@@ -9,6 +9,11 @@ I'm particularly interested in extracting insights from messy data and building 
 
 Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 
+###  Currently
+- Working on data analysis projects
+- Practicing SQL and algorithmic problem solving
+
+
 
 <!--
 **SergioL22/SergioL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
