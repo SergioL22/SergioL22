@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&size=27&duration=4500&pause=1250&color=89FFD0&width=435&lines=Focused+on+Data+Science+and+Analytics;Masters+Student+@UTRGV)](https://git.io/typing-svg)
 
 ## About me
-I am currently a Master Student at **UTRGV** going for my Degree in **Computer Science**. 
-
+I'm a Master’s student pursuing a **Computer Science** degree at **UTRGV**. I enjoy working with datasets and ultimately aim to become a Data Scientist.
+I’m particularly interested in extracting insights from messy data and building reproducible analyses.
+Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 
 
 <!--
