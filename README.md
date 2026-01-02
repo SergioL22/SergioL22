@@ -7,6 +7,7 @@ I'm a Master’s student pursuing a **Computer Science** degree at **UTRGV**, wi
 I'm particularly interested in extracting insights from messy data and building reproducible analyses, primarily using Python and SQL.
 
 Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
+##  
 
 ##  Currently
 - Working on data analysis projects
