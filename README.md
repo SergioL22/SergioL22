@@ -4,9 +4,7 @@
 
 ## About me
 I'm a Master’s student pursuing a **Computer Science** degree at **UTRGV**. I enjoy working with datasets and ultimately aim to become a Data Scientist.
-
 I’m particularly interested in extracting insights from messy data and building reproducible analyses.
-
 Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 
 
