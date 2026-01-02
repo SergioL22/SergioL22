@@ -13,7 +13,9 @@ Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 - Working on data analysis projects
 - Practicing SQL and algorithmic problem solving
 
-
+<div align="center">
+This text will be centered
+</div>
 
 <!--
 **SergioL22/SergioL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
