@@ -33,15 +33,57 @@ Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## **GitHub Stats**
+
+<div align="center">
+  
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioL22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioL22&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## **Contribution Activity**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+## **Streak Stats**
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SergioL22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+## **Profile Views**
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=SergioL22&color=blueviolet&style=for-the-badge)
+
+</div>
+
 ## **Connect with me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-lozano-20021b239/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioa_la@hotmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioL22)
+
+</div>
 
 ---
 
+<div align="center">
+  
 ⭐️ From [SergioL22](https://github.com/SergioL22)
+
+</div>
 
 <!--
 **SergioL22/SergioL22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
