@@ -1,4 +1,4 @@
-<div align="cneter">
+##<div align="cneter">
   Hello, I'm Sergio Lozano 👋 
 </div>
 
