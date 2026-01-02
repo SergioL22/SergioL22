@@ -36,7 +36,9 @@ Outside of coding, I enjoy playing games and am an avid Formula 1 fan.
 ## **Contribution Activity**
 
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ## **Streak Stats**
