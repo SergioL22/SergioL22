@@ -1,5 +1,5 @@
 <div align="cneter">
-  ## Hello, I'm Sergio Lozano 👋 
+  Hello, I'm Sergio Lozano 👋 
 </div>
 
 
