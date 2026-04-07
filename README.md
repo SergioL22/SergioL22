@@ -1,6 +1,6 @@
 ## Hello, I'm Sergio Lozano 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&size=27&duration=4500&pause=1250&color=89FFD0&width=435&lines=Focused+on+Data+Science+and+Analytics;Masters+Student+%40UTRGV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&size=27&duration=4500&pause=1250&color=89FFD0&width=435&lines=Masters+Student+%40UTRGV)](https://git.io/typing-svg)
 
 ## **About me**
 
