@@ -4,11 +4,13 @@
 
 ## **About me**
 
-I'm a Master's student pursuing a **Computer Science** degree at **UTRGV**, with a focus on data science and analytics. I enjoy working with datasets and ultimately aim to become a Data Scientist.
+I’m a Computer Science student at UTRGV with a focus on software engineering. I enjoy building full-stack applications and working across both front-end and back-end systems.
 
-I'm particularly interested in extracting insights from messy data and building reproducible analyses, primarily using Python and SQL.
+I have experience working with Python, SQL, and modern web development tools, and I’m especially interested in designing scalable, efficient, and maintainable software systems.
 
-Outside of coding, I enjoy hiking and am a avid Formula 1 fan.
+I enjoy solving practical problems through code and continuously improving my skills through projects and problem-solving.
+
+Outside of software development, I enjoy hiking and following Formula 1.
 
 ## **Currently**
 
