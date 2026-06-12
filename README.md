@@ -14,6 +14,7 @@ Outside of code, you'll find me deep in a Factorio megabase, on the chessboard, 
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🤖 [**Lyra — Personal AI Assistant**](https://github.com/SergioL22/Lyra) *(WIP)* | Fully local AI assistant: Llama 3.1 (8B) via Ollama, Flask REST backend, SQLite long-term memory, and modular tool use | Python, Flask, Ollama, SQLite |
 | 🩺 [**Disease Prediction**](https://github.com/SergioL22/disease-prediction) | End-to-end ML classification pipeline: cleaning, feature engineering, training, and evaluation across model families | Python, scikit-learn, pandas |
 | 📈 [**Crypto Price Analyzer**](https://github.com/SergioL22/Crypto-Price-Analyzer) | CLI market-analysis tool: live + historical data, RSI/MACD signals, strategy backtesting, charting, alerts | Python, SQLite, CoinGecko API |
 | ♟️ **Chess Engine — RL** | Self-play reinforcement-learning chess agent with automated evaluation against baseline engines | Python, JAX, PGX |
