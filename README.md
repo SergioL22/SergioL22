@@ -6,7 +6,7 @@
 
 I recently completed my **M.S. in Computer Science at UTRGV (May 2026)** and I'm actively seeking new-grad **software engineering, ML, and data roles**.
 
-I build complete systems end to end — from REST backends and data layers to ML pipelines. My toolkit is **Python-first**, with working proficiency in **Rust and C++**, and I have a wet-lab biology background that gives me an edge on scientific and health-adjacent data problems.
+I build complete systems end to end from REST backends and data layers to ML pipelines. My toolkit is **Python-first**, with working proficiency in **Rust and C++**, and I have a wet-lab biology background that gives me an edge on scientific and health-adjacent data problems.
 
 Outside of code, you'll find me deep in a Factorio megabase, on the chessboard, or following Formula 1.
 
