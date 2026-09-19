@@ -1,66 +1,77 @@
-# Hello, I'm Sergio Lozano 👋
+# Hi, I'm Sergio Lozano 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quintessential&size=27&duration=4500&pause=1250&color=89FFD0&width=500&lines=M.S.+Computer+Science+Graduate;Software+%26+ML+Engineer)](https://git.io/typing-svg)
+### Software Engineering · Machine Learning · Biomedical AI
 
-## **About me**
+I'm a Computer Science master's graduate from **UTRGV (May 2026)** with a **B.S. in Biology**. I build software that connects data, machine learning, and usable interfaces—from REST APIs and data pipelines to retrieval systems and LLM agents.
 
-I recently completed my **M.S. in Computer Science at UTRGV (May 2026)** and I'm actively seeking new-grad **software engineering, ML, and data roles**.
+My work is Python-first, with additional experience in Rust, C++, SQL, and JavaScript. My wet-lab biology background informs my interest in scientific and biomedical applications of AI.
 
-I build complete systems end to end from REST backends and data layers to ML pipelines. My toolkit is **Python-first**, with working proficiency in **Rust and C++**, and I have a wet-lab biology background that gives me an edge on scientific and health-adjacent data problems.
+**Open to software engineering, ML engineering, and data roles. Willing to relocate anywhere.**
 
-## **Featured Projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-lozano-20021b239)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sergioa_la@hotmail.com)
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🤖 [**BioLyra — Personal AI Assistant**](https://github.com/SergioL22/BioLyra) *(WIP)* | Fully local AI assistant: Llama 3.1 (8B) via Ollama, Flask REST backend, SQLite long-term memory, and modular tool use | Python, Flask, Ollama, SQLite |
-| 🩺 [**Disease Prediction**](https://github.com/SergioL22/disease-prediction) | End-to-end ML classification pipeline: cleaning, feature engineering, training, and evaluation across model families | Python, scikit-learn, pandas |
-| 📈 [**Crypto Price Analyzer**](https://github.com/SergioL22/Crypto-Price-Analyzer) | CLI market-analysis tool: live + historical data, RSI/MACD signals, strategy backtesting, charting, alerts | Python, SQLite, CoinGecko API |
-| ♟️ **Chess Engine — RL** | Self-play reinforcement-learning chess agent with automated evaluation against baseline engines | Python, JAX, PGX |
-| 🎵 [**Spotify Analysis**](https://github.com/SergioL22/Spotify-Analysis) | Audio-feature analysis surfacing listening trends, built on cleaned datasets with visual reporting | Python, pandas, Matplotlib |
-| 🎲 [**D&D Discord Bot**](https://github.com/SergioL22/DND-Discord-Bot) | Async Discord bot for tabletop sessions — dice, character state, and game utilities | Python, discord.py |
+## Featured projects
 
-## **Currently**
+### 🧬 [BioLyra — Agentic Biomedical AI Assistant](https://github.com/SergioL22/BioLyra)
 
-- 🔍 Applying to new-grad SWE / ML / data roles
-- 🤖 Working through agentic AI engineering coursework (Ed Donner's Core & Agentic tracks)
-- 🧩 Sharpening algorithms and SQL through daily problem solving
+A biomedical assistant that routes questions between conversation, retrieval over approximately **2,500 PubMed abstract chunks**, and live **NCBI Entrez search**.
 
-## **Tech Stack**
+- Uses LangGraph for routing and ChromaDB with BioBERT for retrieval.
+- Incorporates a **Phi-3.5-mini model fine-tuned with QLoRA on PubMedQA**, evaluated with BERTScore.
+- Provides a **Gradio interface** and a **FastAPI endpoint**.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Built with:** Python · LangGraph · ChromaDB · BioBERT · FastAPI · Gradio · Weights & Biases
 
-### ML & Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-9C27B0?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 📈 [Crypto Price Analyzer](https://github.com/SergioL22/Crypto-Price-Analyzer)
 
-### Backend & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+A command-line tool for exploring cryptocurrency markets using live and historical data. Includes **RSI/MACD indicators, strategy backtesting, charts, and alerts**, with SQLite storage and CoinGecko API integration.
 
-## **Contribution Activity**
+**Built with:** Python · SQLite · CoinGecko API
+
+### 🩺 [Disease Prediction](https://github.com/SergioL22/disease-prediction)
+
+An end-to-end classification pipeline covering **data cleaning, feature engineering, model training, and evaluation** across multiple model families.
+
+**Built with:** Python · scikit-learn · pandas
+
+### More projects
+
+| Project | Focus | Tools |
+| --- | --- | --- |
+| ♟️ Chess Engine (RL) | Self-play reinforcement learning with automated evaluation against baseline engines | Python, JAX, PGX |
+| 🎵 [Spotify Analysis](https://github.com/SergioL22/Spotify-Analysis) | Audio-feature analysis and visual reporting to explore listening trends | Python, pandas, Matplotlib |
+| 🎲 [D&D Discord Bot](https://github.com/SergioL22/DND-Discord-Bot) | Asynchronous tabletop-session bot with dice rolls, character state, and an AI Dungeon Master | Python, discord.py |
+
+## What I'm working on
+
+- Building an **AI-powered portfolio** with a chat assistant that answers questions about my background and projects.
+- Developing a **job-search workflow** for listing collection, LLM-assisted application tailoring, and tracking.
+- Improving **Crypto Price Analyzer** and experimenting with LLM-assisted market analysis.
+- Deepening my agentic AI skills through Ed Donner's Core and Agentic tracks, alongside regular algorithms and SQL practice.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, SQL, Rust, C++, JavaScript |
+| **Machine learning** | PyTorch, JAX, scikit-learn, Hugging Face |
+| **LLM applications** | LangGraph, RAG, QLoRA fine-tuning, ChromaDB |
+| **Data & analysis** | pandas, NumPy, Matplotlib, Jupyter |
+| **Backend & interfaces** | FastAPI, Flask, Gradio, SQLite |
+| **Development tools** | Git, Docker, Linux, Weights & Biases |
+
+## Let's connect
+
+I'm interested in opportunities to build useful software, put ML models into working applications, and solve problems at the intersection of computing and biology.
+
+**[LinkedIn](https://www.linkedin.com/in/sergio-lozano-20021b239)** · **[Email](mailto:sergioa_la@hotmail.com)**
+
+<details>
+<summary>GitHub activity</summary>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SergioL22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## **Connect with me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-lozano-20021b239)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioa_la@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SergioL22)
-
----
-
-⭐️ From [SergioL22](https://github.com/SergioL22)
+</details>
