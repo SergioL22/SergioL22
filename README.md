@@ -65,7 +65,7 @@ An end-to-end classification pipeline covering **data cleaning, feature engineer
 
 I'm interested in opportunities to build useful software, put ML models into working applications, and solve problems at the intersection of computing and biology.
 
-**[LinkedIn](https://www.linkedin.com/in/sergio-lozano-20021b239)** · **[Email](mailto:sergioa_la@hotmail.com)**
+**[Portfolio](https://sergio-lozano.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sergio-lozano-20021b239)** · **[Email](mailto:sergioa_la@hotmail.com)**
 
 <details>
 <summary>GitHub activity</summary>
