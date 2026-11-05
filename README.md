@@ -76,8 +76,6 @@ I'm interested in building useful software, putting ML models into working appli
 <details>
 <summary>GitHub activity</summary>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SergioL22&theme=tokyo-night&hide_border=true&area=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SergioL22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
